@@ -4,8 +4,14 @@
         <description><![CDATA[Rowing]]></description>
         <link>https://thegrid.ai/rowing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 19:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 19:17:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rowing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/rowing/d650bc25-0e4b-4fcf-bf62-9f8c507f60e6/index.html</link>
+            <guid isPermaLink="false">d650bc25-0e4b-4fcf-bf62-9f8c507f60e6</guid>
+            <pubDate>Tue, 12 Jan 2016 19:17:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3f73cc9-9d65-4f73-8ea7-6aaf95534780.jpg">]]></description>
