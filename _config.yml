@@ -1,7 +1,7 @@
 name: Rowing
 favicon: null
-layout_spectrum: 0.2381555954925716
-typography_spectrum: 0.8478274627123028
+layout_spectrum: 1
+typography_spectrum: 0.18799
 cta:
   domain: null
   bucket: null
